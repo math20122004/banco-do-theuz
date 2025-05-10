@@ -1,16 +1,21 @@
-# BANCO DO THEUZ
+# 💰 BANCO DO THEUZ
 
 Apresento a nova versão do projeto Banco do Theuz!
 Agora com uma estrutura mais robusta e funcionalidades aprimoradas.
+##
 
 🔧 Principais melhorias:
-Separação entre cliente e conta bancária, seguindo boas práticas de modelagem.
+O sistema foi reestruturado com base na programação orientada a objetos (POO), promovendo a separação de responsabilidades e facilitando a manutenção, testes e futuras evoluções.
 
-Novas funções implementadas:
 
-  ✅ Cadastro de clientes com validação de CPF e endereço
-  ✅ Criação de contas correntes vinculadas a um cliente
-  ✅ Operações de depósito, saque (com limites) e extrato
+✅ Novas implementações e boas práticas aplicadas:
 
-Melhor organização e validações mais consistentes no código
-Esse projeto foi desenvolvido em Python com foco em lógica de programação e simulação de um sistema bancário simples.
+- Separação clara de responsabilidades
+- Encapsulamento de dados
+- Herança entre classes
+- Uso de classes e métodos abstratos
+- Tratamento de exceções e validações de entrada
+
+
+📌 A organização do código foi refinada para garantir maior legibilidade e consistência.
+Este projeto foi desenvolvido em Python, com foco em lógica de programação e simulação de operações bancárias essenciais.
